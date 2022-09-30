@@ -1,0 +1,19 @@
+.header-container {
+    background-color: #3b3f49;
+    border: black;
+    border-radius: 6px;
+    height: 55px;
+    width: 40%;
+    margin: 0px auto;
+    margin-top: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.title-header {
+    margin: 0 5px;
+    font-size: 29px;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

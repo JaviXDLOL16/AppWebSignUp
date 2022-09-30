@@ -1,0 +1,30 @@
+input{
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 12px;
+    background: whitesmoke;
+    border: #3b3f49 solid 2px;
+    outline: none;
+    width: 80%;
+}
+
+input[type=submit]{
+    padding: 5px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background:  #3b3f49;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+    border: black solid 1px;
+    
+}
+
+::placeholder{
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+    font-weight: bold;
+
+}
+
+
+
